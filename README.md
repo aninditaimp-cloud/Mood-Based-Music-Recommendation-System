@@ -18,8 +18,7 @@ A Python console application that recommends songs based on the user's current m
 
 ## Installation & Setup
 1. Clone the repository:
-git clone https://github.com/yourusername/mood-music-recommender.git
-cd mood-music-recommender
+https://github.com/aninditaimp-cloud/Mood-Based-Music-Recommendation-System
 2. Run the program: main.py
 
 
